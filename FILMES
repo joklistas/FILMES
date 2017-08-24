@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#PLAYLISTV: pltv-logo="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" pltv-name="JokSeries" pltv-description="JokSeries" pltv-cover="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" pltv-author="Jok"
 
 #EXTINF:-1 tvg-logo="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" group-title=" JokSeries",JokSeries
 http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png
