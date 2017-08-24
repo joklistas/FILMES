@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]FILMES[/COLOR]
 
-#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
-
-#EXTINF:-1, [COLOR red]ATUALIZADA EM 25/07/2017[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/1zny1om.jpg" group-title="JokSeries",JokSeries
 http://i66.tinypic.com/1zny1om.jpg
